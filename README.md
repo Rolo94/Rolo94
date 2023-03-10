@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Rolando Suarez</h1>
 <h3 align="center">Un desarrollador web en crecimiento, orientado hacia el backend.</h3>
 
-- 🌱 Me encuentro estudiando **Un profesorado de Informática, además de estar aprendiendo constantemente en OpenBootcamp.**
+- 🌱 Me encuentro estudiando **un profesorado de Informática, además de estar aprendiendo constantemente en OpenBootcamp.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://rolo94.github.io/portfoliov2/](https://rolo94.github.io/portfoliov2/)
 
